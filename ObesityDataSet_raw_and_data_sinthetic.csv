@@ -1,4 +1,4 @@
-Age;Gender;Height;Weight;FCVC;SMOKE;CH2O;family_history_with_overweight;FAF;NObeyesdad
+Age;Gender;Height;Weight;VegetableConsumption;Smoke;CH2O;FamilyHistory;PhysicalActivity;NObeyesdad
 21;Female;1.62;64;2;no;2;yes;0;Normal_Weight
 21;Female;1.52;56;3;yes;3;yes;3;Normal_Weight
 23;Male;1.8;77;2;no;2;yes;2;Normal_Weight
